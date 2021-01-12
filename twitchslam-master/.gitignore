@@ -1,8 +1,0 @@
-.*.swp
-.*.swo
-__pycache__
-tmp
-build
-debug.txt
-kitti
-map.json
